@@ -9,6 +9,7 @@
   "author": "omar cordoba",
   "license": "ISC",
   "dependencies": {
+    "bootstrap-vue": "^2.0.0-rc.15",
     "nuxt": "^2.5.1"
   }
 }
