@@ -27,7 +27,7 @@
      components: { navbar },
      data() {
          return {
-             msg:"ING. Omar Cordoba",
+             msg:"Omar Cordoba",
              municipios: ['Mocoa','Villagarzon', 'Pto Asis']
          }
 
